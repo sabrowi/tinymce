@@ -9,7 +9,7 @@ function App() {
          initialValue=""
          apiKey='w0wselq9wnb0snnpcw34hkhxvs8dg13nwsl3d7639t911cfd'
          init={{
-           height: 500,
+           height: '100vh',
            menubar: true,
            plugins: [
              'advlist autolink lists link image charmap print preview anchor',
